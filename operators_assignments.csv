@@ -1,0 +1,181 @@
+Operador,Coordinador,Fecha_Inicio,Fecha_Fin,Turno,Maquina
+Ramirez Alvarado Fernando,MAYRA,2025-01-13,2025-02-09,S1,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-02-10,2025-03-09,S3,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-03-10,2025-04-06,S2,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-04-07,2025-05-04,S1,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-05-05,2025-06-01,S3,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-06-02,2025-06-29,S2,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-06-30,2025-07-27,S1,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-07-28,2025-08-24,S3,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-08-25,2025-09-21,S2,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-09-22,2025-10-19,S1,KDF-7
+Ramirez Alvarado Fernando,MAYRA,2025-01-13,2025-02-09,S1,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-02-10,2025-03-09,S3,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-03-10,2025-04-06,S2,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-04-07,2025-05-04,S1,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-05-05,2025-06-01,S3,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-06-02,2025-06-29,S2,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-06-30,2025-07-27,S1,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-07-28,2025-08-24,S3,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-08-25,2025-09-21,S2,KDF-9
+Ramirez Alvarado Fernando,MAYRA,2025-09-22,2025-10-19,S1,KDF-9
+Flores Diaz Silvia,PEDRO,2025-01-13,2025-02-09,S3,KDF-7
+Flores Diaz Silvia,PEDRO,2025-02-10,2025-03-09,S2,KDF-7
+Flores Diaz Silvia,PEDRO,2025-03-10,2025-04-06,S1,KDF-7
+Flores Diaz Silvia,PEDRO,2025-04-07,2025-05-04,S3,KDF-7
+Flores Diaz Silvia,PEDRO,2025-05-05,2025-06-01,S2,KDF-7
+Flores Diaz Silvia,PEDRO,2025-06-02,2025-06-29,S1,KDF-7
+Flores Diaz Silvia,PEDRO,2025-06-30,2025-07-27,S3,KDF-7
+Flores Diaz Silvia,PEDRO,2025-07-28,2025-08-24,S2,KDF-7
+Flores Diaz Silvia,PEDRO,2025-08-25,2025-09-21,S1,KDF-7
+Flores Diaz Silvia,PEDRO,2025-09-22,2025-10-19,S3,KDF-7
+Flores Diaz Silvia,PEDRO,2025-01-13,2025-02-09,S3,KDF-9
+Flores Diaz Silvia,PEDRO,2025-02-10,2025-03-09,S2,KDF-9
+Flores Diaz Silvia,PEDRO,2025-03-10,2025-04-06,S1,KDF-9
+Flores Diaz Silvia,PEDRO,2025-04-07,2025-05-04,S3,KDF-9
+Flores Diaz Silvia,PEDRO,2025-05-05,2025-06-01,S2,KDF-9
+Flores Diaz Silvia,PEDRO,2025-06-02,2025-06-29,S1,KDF-9
+Flores Diaz Silvia,PEDRO,2025-06-30,2025-07-27,S3,KDF-9
+Flores Diaz Silvia,PEDRO,2025-07-28,2025-08-24,S2,KDF-9
+Flores Diaz Silvia,PEDRO,2025-08-25,2025-09-21,S1,KDF-9
+Flores Diaz Silvia,PEDRO,2025-09-22,2025-10-19,S3,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-01-13,2025-02-09,S2,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-02-10,2025-03-09,S1,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-03-10,2025-04-06,S3,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-04-07,2025-05-04,S2,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-05-05,2025-06-01,S1,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-06-02,2025-06-29,S3,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-06-30,2025-07-27,S2,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-07-28,2025-08-24,S1,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-08-25,2025-09-21,S3,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-09-22,2025-10-19,S2,KDF-7
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-01-13,2025-02-09,S2,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-02-10,2025-03-09,S1,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-03-10,2025-04-06,S3,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-04-07,2025-05-04,S2,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-05-05,2025-06-01,S1,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-06-02,2025-06-29,S3,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-06-30,2025-07-27,S2,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-07-28,2025-08-24,S1,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-08-25,2025-09-21,S3,KDF-9
+Ramirez Fernandez Luis Alfredo,ANDRES,2025-09-22,2025-10-19,S2,KDF-9
+Vela Torres Juan Escudero,MAYRA,2025-01-13,2025-02-09,S1,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-02-10,2025-03-09,S3,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-03-10,2025-04-06,S2,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-04-07,2025-05-04,S1,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-05-05,2025-06-01,S3,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-06-02,2025-06-29,S2,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-06-30,2025-07-27,S1,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-07-28,2025-08-24,S3,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-08-25,2025-09-21,S2,KDF-8
+Vela Torres Juan Escudero,MAYRA,2025-09-22,2025-10-19,S1,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-01-13,2025-02-09,S3,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-02-10,2025-03-09,S2,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-03-10,2025-04-06,S1,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-04-07,2025-05-04,S3,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-05-05,2025-06-01,S2,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-06-02,2025-06-29,S1,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-06-30,2025-07-27,S3,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-07-28,2025-08-24,S2,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-08-25,2025-09-21,S1,KDF-8
+Roblero Cruz Marcos Daniel,PEDRO,2025-09-22,2025-10-19,S3,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-01-13,2025-02-09,S2,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-02-10,2025-03-09,S1,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-03-10,2025-04-06,S3,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-04-07,2025-05-04,S2,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-05-05,2025-06-01,S1,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-06-02,2025-06-29,S3,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-06-30,2025-07-27,S2,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-07-28,2025-08-24,S1,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-08-25,2025-09-21,S3,KDF-8
+Martinez Robles Julio Cesar,ANDRES,2025-09-22,2025-10-19,S2,KDF-8
+Rodriguez Cabrera Jose Raul,MAYRA,2025-01-13,2025-02-09,S1,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-02-10,2025-03-09,S3,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-03-10,2025-04-06,S2,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-04-07,2025-05-04,S1,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-05-05,2025-06-01,S3,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-06-02,2025-06-29,S2,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-06-30,2025-07-27,S1,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-07-28,2025-08-24,S3,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-08-25,2025-09-21,S2,KDF-10
+Rodriguez Cabrera Jose Raul,MAYRA,2025-09-22,2025-10-19,S1,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-01-13,2025-02-09,S3,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-02-10,2025-03-09,S2,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-03-10,2025-04-06,S1,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-04-07,2025-05-04,S3,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-05-05,2025-06-01,S2,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-06-02,2025-06-29,S1,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-06-30,2025-07-27,S3,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-07-28,2025-08-24,S2,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-08-25,2025-09-21,S1,KDF-10
+Sanchez Zuniga Victor Manuel,PEDRO,2025-09-22,2025-10-19,S3,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-01-13,2025-02-09,S2,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-02-10,2025-03-09,S1,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-03-10,2025-04-06,S3,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-04-07,2025-05-04,S2,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-05-05,2025-06-01,S1,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-06-02,2025-06-29,S3,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-06-30,2025-07-27,S2,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-07-28,2025-08-24,S1,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-08-25,2025-09-21,S3,KDF-10
+Guirao Morales Beatriz,ANDRES,2025-09-22,2025-10-19,S2,KDF-10
+Gonzalez Nunez Milton Misael,MAYRA,2025-01-13,2025-02-09,S1,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-02-10,2025-03-09,S3,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-03-10,2025-04-06,S2,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-04-07,2025-05-04,S1,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-05-05,2025-06-01,S3,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-06-02,2025-06-29,S2,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-06-30,2025-07-27,S1,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-07-28,2025-08-24,S3,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-08-25,2025-09-21,S2,KDF-11
+Gonzalez Nunez Milton Misael,MAYRA,2025-09-22,2025-10-19,S1,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-01-13,2025-02-09,S3,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-02-10,2025-03-09,S2,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-03-10,2025-04-06,S1,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-04-07,2025-05-04,S3,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-05-05,2025-06-01,S2,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-06-02,2025-06-29,S1,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-06-30,2025-07-27,S3,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-07-28,2025-08-24,S2,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-08-25,2025-09-21,S1,KDF-11
+Solorzano De la Cruz Nicolas,PEDRO,2025-09-22,2025-10-19,S3,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-01-13,2025-02-09,S2,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-02-10,2025-03-09,S1,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-03-10,2025-04-06,S3,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-04-07,2025-05-04,S2,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-05-05,2025-06-01,S1,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-06-02,2025-06-29,S3,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-06-30,2025-07-27,S2,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-07-28,2025-08-24,S1,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-08-25,2025-09-21,S3,KDF-11
+Preciado Velasco Edith Soledad,ANDRES,2025-09-22,2025-10-19,S2,KDF-11
+Bautista Martinez Marco Antonio,MAYRA,2025-01-13,2025-02-09,S1,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-02-10,2025-03-09,S3,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-03-10,2025-04-06,S2,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-04-07,2025-05-04,S1,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-05-05,2025-06-01,S3,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-06-02,2025-06-29,S2,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-06-30,2025-07-27,S1,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-07-28,2025-08-24,S3,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-08-25,2025-09-21,S2,KDF-17
+Bautista Martinez Marco Antonio,MAYRA,2025-09-22,2025-10-19,S1,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-01-13,2025-02-09,S3,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-02-10,2025-03-09,S2,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-03-10,2025-04-06,S1,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-04-07,2025-05-04,S3,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-05-05,2025-06-01,S2,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-06-02,2025-06-29,S1,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-06-30,2025-07-27,S3,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-07-28,2025-08-24,S2,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-08-25,2025-09-21,S1,KDF-17
+Dominguez Macias Guadalupe Monserrat,PEDRO,2025-09-22,2025-10-19,S3,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-01-13,2025-02-09,S2,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-02-10,2025-03-09,S1,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-03-10,2025-04-06,S3,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-04-07,2025-05-04,S2,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-05-05,2025-06-01,S1,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-06-02,2025-06-29,S3,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-06-30,2025-07-27,S2,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-07-28,2025-08-24,S1,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-08-25,2025-09-21,S3,KDF-17
+Bernardo Rodriguez Jahzzel Uriel,ANDRES,2025-09-22,2025-10-19,S2,KDF-17
